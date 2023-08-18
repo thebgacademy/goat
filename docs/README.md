@@ -4,9 +4,9 @@ This session is part of [**Biodiversity Genomics Academy 2023**](https://BGA23.o
 
 ## Session Leader(s)
 
-Cibele Sotero-Caio
-Genomic Data Curator
-Tree of Life Programme
+Cibele Sotero-Caio  
+Genomic Data Curator  
+Tree of Life Programme  
 Wellcome Sanger Institute
 
 ## Description
