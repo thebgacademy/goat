@@ -13,7 +13,7 @@ Wellcome Sanger Institute
 
 By the end of this session you will be able to use GoaT to
 
-1. Browse genome size, taxon characteristics
+1. Browse genome size and taxon characteristics
 2. View sequencing status and target lists for Earth Biogenome Projects
 3. Create and share reports for genome and sequencing metadata
 
