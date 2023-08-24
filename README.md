@@ -13,14 +13,16 @@ Wellcome Sanger Institute
 
 By the end of this session you will be able to use GoaT to
 
-1. Browse genome size, taxon characteristics
-2. View sequencing status and target lists for Earth Biogenome Projects
-3. Create and share reports for genome and sequencing metadata
+1. Browse genome size, chromosome number, assembly span and other genome-relevant metadata
+2. Browse metadata associated with individual assemblies
+3. Retrieve lists of species and assemblies fitering on available metadata
+4. Perform simple and complex queries using GoaT Web Interface
+5. View sequencing status and target lists for Earth Biogenome Projects
+6. Create and share reports for taxon and assembly metadata
 
 ## Prerequisites
 
-1. Familiarity with genome sequencing projects
-2. Understanding of the terms genome assembly, genome size
+1. Access to web via desktop (GoaT UI is not optimized for mobile)
 
 !!! warning "Please make sure you MEET THE PREREQUISITES and READ THE DESCRIPTION above"
 
