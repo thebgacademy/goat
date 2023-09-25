@@ -9,6 +9,8 @@ Genomic Data Curator
 Tree of Life Programme  
 Wellcome Sanger Institute
 
+## **[Slides](https://docs.google.com/presentation/d/1046_reSbPVvD5YEuHfQ6ZLkNrmWvaIISmXTCc9KNSzI/edit#slide=id.g27b41b4dd96_0_96){ : target="_blank" }**
+
 ## Description
 
 By the end of this session you will be able to use GoaT to
@@ -16,6 +18,7 @@ By the end of this session you will be able to use GoaT to
 1. Browse genome size, taxon characteristics
 2. View sequencing status and target lists for Earth Biogenome Projects
 3. Create and share reports for genome and sequencing metadata
+
 
 ## Prerequisites
 
