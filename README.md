@@ -1,6 +1,10 @@
 # Querying genome metadata and sequencing projects using GoaT
 
-This session is part of [**Biodiversity Genomics Academy 2023**](https://BGA23.org)
+#BGA24/sessions #GitPod #GoaT #Tools
+
+This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgacademy.org)
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/goat) 
 
 ## Session Leader(s)
 
