@@ -18,7 +18,8 @@ BGA24 will host 2 types of GoaT Web tutorial sessions:
 
 ![goat-sessions](/docs-BGA24/goat-sessions.png)
 
-**GoaT-UI: Querying metadata on (GoaT) Web**
+### GoaT-UI: 
+**Querying metadata on (GoaT) Web**
 
 By the end of this session you will:
 
@@ -26,7 +27,8 @@ By the end of this session you will:
 2. Understand the different indexes on GoaT (taxon and assembly) and how to query associated metadata
 3. Have experience performing simple and complex queries using GoaT Web Interface to retrieve list of taxa and/or assemblies
 
-**GoaT-EBP: Querying sequencing projects on GoaT Web**
+### GoaT-EBP: 
+**Querying sequencing projects on GoaT Web**
 
 By the end of this session you will:
 
@@ -34,8 +36,8 @@ By the end of this session you will:
 2. Have experience viewing sequencing status and target lists for Earth Biogenome Projects
 3. Create and share reports for taxon and assembly metadata
 
-    This session will have 2 instances with same content
-    
+- NOTE: GoaT-EBP session will have 2 instances with same content
+
 
 ## Prerequisites
 
