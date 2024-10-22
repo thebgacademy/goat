@@ -1,4 +1,5 @@
 # Querying genome metadata and sequencing projects using Genomes on a Tree (GoaT)
+![favicon-32x32](https://github.com/BGAcademy23/goat/assets/13206220/6758c870-f72e-43c9-8d05-e0c47d3de052)
 
 #BGA24/sessions #GoaT #Tools
 
@@ -13,9 +14,7 @@ Wellcome Sanger Institute
 
 ## Description
 
-![favicon-32x32](https://github.com/BGAcademy23/goat/assets/13206220/6758c870-f72e-43c9-8d05-e0c47d3de052)
-
-
+![goat-sessions](/docs-BGA24/goat-sessions.png)
 
 **Session 1: Querying metadata on (GoaT) Web**
 
