@@ -1,10 +1,8 @@
-# Querying genome metadata and sequencing projects using GoaT
+# Querying genome metadata and sequencing projects using Genomes on a Tree (GoaT)
 
-#BGA24/sessions #GitPod #GoaT #Tools
+#BGA24/sessions #GoaT #Tools
 
 This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgacademy.org)
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/goat) 
 
 ## Session Leader(s)
 
@@ -17,13 +15,20 @@ Wellcome Sanger Institute
 
 ![favicon-32x32](https://github.com/BGAcademy23/goat/assets/13206220/6758c870-f72e-43c9-8d05-e0c47d3de052)
 
-**Introduction to Genomes on a Tree (GoaT) database**
+
+
+**Session 1: Querying metadata on (GoaT) Web**
 
 By the end of this session you will:
 
 1. Know what genome-relevant metadata (such as genome size, chromosome number, assembly span) are stored on GoaT
 2. Understand the different indexes on GoaT (taxon and assembly) and how to query associated metadata
 3. Have experience performing simple and complex queries using GoaT Web Interface to retrieve list of taxa and/or assemblies
+
+**Sessions 2-3: Querying sequencing projects on GoaT Web**
+By the end of this session you will:
+
+1. Explore Sequencing project pages and reports on GoaT UI
 4. Have experience viewing sequencing status and target lists for Earth Biogenome Projects
 5. Create and share reports for taxon and assembly metadata
 
